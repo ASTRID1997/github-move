@@ -1,5 +1,7 @@
-*LOS INVENTARIOS DE CONTROL*
+*Este texto estará en cursiva*
+_Este también estará en cursiva_
 
-__se realizan semanalmente__
+**Este texto estará en negrita**
+__Este también estará en negrita__
 
-*sin embargo los __viernes__ son inventarios ciclicos* 
+_También **puedes** combinarlos_
