@@ -1,4 +1,4 @@
-__LOS INVENTARIOS DE CONTROL__
+*LOS INVENTARIOS DE CONTROL*
 
 __se realizan semanalmente__
 
