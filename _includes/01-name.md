@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# iINVENTARIO <h1>
+## INGRESO DE REFERENCIAS 
+###### cantidad exacta<h6>
