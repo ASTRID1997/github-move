@@ -1,5 +1,5 @@
-[] hamburguesa
-[] pasta
-[] pizza
-[] perro caliente
-[] limonada
+* hamburguesa
+* pasta
+* pizza
+* perro caliente
+* limonada
