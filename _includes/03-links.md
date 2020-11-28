@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](https://www.gestiopolis.com/que-es-inventario-tipos-utilidad-contabilizacion-y-valuacion/)
